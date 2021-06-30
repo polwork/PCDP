@@ -3,7 +3,9 @@
 Official implementation of the PCDP. [Paper](https://www.osapublishing.org/oe/fulltext.cfm?uri=oe-29-14-22066&id=452863)
 
 ### Citation
-'''
+
+
+```
 
 @article{wu2021polarization,
   title={Polarization image demosaicking using polarization channel difference prior},
@@ -17,7 +19,7 @@ Official implementation of the PCDP. [Paper](https://www.osapublishing.org/oe/fu
 }
 
 
-'''
+```
 
 
 ### Contact
