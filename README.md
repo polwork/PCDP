@@ -4,9 +4,7 @@ Official implementation of the PCDP. [Paper](https://www.osapublishing.org/oe/fu
 
 ### Citation
 
-
 ```
-
 @article{wu2021polarization,
   title={Polarization image demosaicking using polarization channel difference prior},
   author={Wu, Rongyuan and Zhao, Yongqiang and Li, Ning  and Kong, Seong G},
@@ -17,11 +15,7 @@ Official implementation of the PCDP. [Paper](https://www.osapublishing.org/oe/fu
   year={2021},
   publisher={Optical Society of America}
 }
-
-
 ```
-
-
 ### Contact
 
 Wu Rongyuan (email:rongyuanwu@mail.nwpu.edu.cn)
