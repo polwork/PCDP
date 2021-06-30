@@ -4,9 +4,9 @@ clear all;
 
 %% read poalrization images
 I0 = double(imread('woodwall_0.png'));
-I45 = double(imread('woodwall_0.png'));
-I90 = double(imread('woodwall_0.png'));
-I135 = double(imread('woodwall_0.png'));
+I45 = double(imread('woodwall_45.png'));
+I90 = double(imread('woodwall_90.png'));
+I135 = double(imread('woodwall_135.png'));
 
 %% choose green channel
 I0 = I0(:,:,2);
